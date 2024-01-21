@@ -1,0 +1,1 @@
+uvicorn app.py:app --reload
